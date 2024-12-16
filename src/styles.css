@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+body{
+    font-family: 'Fredoka', sans-serif;
+    background-color:  #cbf078 !important;
+}
+.contact-img{
+    width: 100px;
+    border-radius: 50%;
+}
+.contact-img-details{
+    width: 150px;
+    border-radius: 50%;
+}
+.mt-2{
+    font-weight: bold;
+    font-size: 30px;
+}
+.navbar navbar-dark bg-primary navbar-expend-sm{
+    background-color: #f9de79; 
+}

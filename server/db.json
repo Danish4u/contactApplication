@@ -1,0 +1,86 @@
+{
+  "contacts": [
+    {
+      "id": "b347",
+      "name": "Iqram",
+      "photo": "https://media.licdn.com/dms/image/v2/D5635AQG4DaYBYF10zQ/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1733209332070?e=1734951600&v=beta&t=NOxS09I5iBCtXStsCFEOaIdZE-rsawTkhzjWbkRbxoo",
+      "email": "iqram@gmail.com",
+      "company": "sd hub",
+      "title": "Angular Developer",
+      "groupId": "3",
+      "mobile": "9987877879"
+    },
+    {
+      "id": "adc5",
+      "name": "Danish ALi",
+      "email": "danishli11@gmail.com",
+      "mobile": "09304853787",
+      "company": "Abc Copmany",
+      "photo": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/12/18/Pictures/_ac157270-028c-11e9-b709-b8f5f1e83cec.jpg",
+      "title": "Angular Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "2ece",
+      "name": "AAmir Ali",
+      "email": "aamir@gmail.com",
+      "mobile": "08637494066",
+      "company": "Deloitte",
+      "title": "Senior Software Engineer",
+      "photo": "https://media.licdn.com/dms/image/v2/C5103AQHefZ986iK7kg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1571166467852?e=1740009600&v=beta&t=G_CkLKPkGugJwUe6PNxeB_NoIby1qAXR77DQJz6upAU",
+      "groupId": "2"
+    },
+    {
+      "id": "d851",
+      "name": "Sahir Rasheed",
+      "email": "sahir@gmail.com",
+      "mobile": "3478924923478",
+      "company": "Tcs",
+      "title": "Data Engineer",
+      "photo": "https://media.licdn.com/dms/image/v2/C5603AQE7ZF6U5ThWeg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1616579847405?e=2147483647&v=beta&t=mJlNatlmt6K4Az14VmgRJ_6or5eM0OlV9ere2Pggxt0",
+      "groupId": "3"
+    },
+    {
+      "id": "212e",
+      "name": "Sheriyar",
+      "email": "sheriyar@gmail.com",
+      "mobile": "09304853787",
+      "company": "sd hub",
+      "title": "Angular Developer",
+      "groupId": "3",
+      "photo": "https://media.licdn.com/dms/image/v2/C5103AQEvlrAK9FOcIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1582306896081?e=1740009600&v=beta&t=fafNwAFZv_mY2UOMcLvHLZ3lmJQm5v7nQrpqcjNKTmI"
+    },
+    {
+      "id": "2c85",
+      "name": "Furqan baig",
+      "email": "furqanbaig@gmail.com",
+      "mobile": "09304853787",
+      "company": "Sd hub",
+      "title": "Senior Software Engineer",
+      "groupId": "3",
+      "photo": "https://media.licdn.com/dms/image/v2/D4D35AQFctfYNMyw3Gg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1730465390944?e=1734955200&v=beta&t=nsnS3f76A5rCJP0VPANoclSxHe4mnJk1wBDGWEvIw44"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collegue"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    }
+  ]
+}
